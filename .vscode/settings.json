@@ -1,0 +1,13 @@
+{
+    "editor.indentSize": "tabSize",
+    "isort.interpreter": [
+        "/root/Desktop/vision/Modern-Computer-Vision-with-PyTorch-2E/.venv/bin/python"
+    ],
+    "ruff.interpreter": [
+        // "C:\\ProgramData\\Miniconda3\\python.exe",
+        // "/Users/mihailmihaylov/miniconda3/bin/python",
+        "/root/Desktop/vision/Modern-Computer-Vision-with-PyTorch-2E/.venv/bin/python"
+    ],
+    "python.defaultInterpreterPath": "/root/Desktop/vision/Modern-Computer-Vision-with-PyTorch-2E/.venv/bin/python",
+    "python.pythonPath": "/root/Desktop/vision/Modern-Computer-Vision-with-PyTorch-2E/.venv/bin/python",
+}
