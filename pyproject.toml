@@ -5,10 +5,18 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12.10"
 dependencies = [
+    "face-alignment>=1.4.1",
+    "imgaug>=0.4.0",
     "ipykernel>=6.29.5",
+    "kaggle>=1.7.4.2",
     "matplotlib>=3.10.1",
     "numpy>=2.2.4",
+    "opencv-contrib-python>=4.11.0.86",
+    "plotly>=6.0.1",
+    "plum-dispatch>=2.5.7",
+    "seaborn>=0.13.2",
     "torch>=2.6.0",
+    "torch-snippets==0.534",
     "torchsummary>=1.5.1",
     "torchvision>=0.21.0",
 ]
